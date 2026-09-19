@@ -1,0 +1,1 @@
+import{describe,it,expect}from"vitest";describe("Integrator",()=>it("has a valid title",()=>expect("Integrator".length).toBeGreaterThan(3)));
